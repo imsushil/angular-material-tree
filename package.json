@@ -9,6 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "heroku-postbuild": "ng build --prod",
+    "preinstall": "npm install -g @angular/cli @angular/compiler-cli typescript",
     "sprites": "svg-sprite --config sprite-config.json src/assets/icons/*.svg"
   },
   "private": true,
