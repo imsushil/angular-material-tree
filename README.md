@@ -1,6 +1,6 @@
 # TreeComponent
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+This is a simple angular application that shows you how you can include angular material's tree component with checkbox in your application. You can filter tree nodes and you can get the count of the selected nodes.
 
 ## Development server
 
